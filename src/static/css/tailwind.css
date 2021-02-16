@@ -5,7 +5,7 @@
 /*Your Custom CSS Goes here*/
 
 body {
-    background: url(https://github.com/chrisrindone/neat-starter/blob/master/src/static/img/tiedye1.svg);
+    background-image: url(src/static/img/tiedye1.svg);
     background-repeat: no-repeat;
     background-position: top left;
 }

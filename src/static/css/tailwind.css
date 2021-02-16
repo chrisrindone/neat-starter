@@ -4,6 +4,12 @@
 
 /*Your Custom CSS Goes here*/
 
+body {
+    background: url(https://github.com/chrisrindone/neat-starter/blob/master/src/static/img/tiedye1.svg);
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }
